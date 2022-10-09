@@ -1,17 +1,17 @@
 # odin-recipes
 Recipe website test from odin project
 
-This website aims to test skills learned in the oden project:
-practise using git further
+This website aims to test skills learned in the odin project:
+practice using git further
 Testing basic HTML skills
-(bolierplate,
+(boilerplate,
 headings
 paragraphs
 basic stylings - strong, emphasis
 links
 images)
 
-it should look very basic with little styleing and no interactivity
+it should look very basic with little styling and no interactivity
 
 
 
