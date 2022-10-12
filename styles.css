@@ -1,0 +1,47 @@
+* {
+    background-color: #963484;
+    color: #28C2FF;
+
+    font-family: 'free mono', Courier, monospace;
+}
+
+h1 {
+    background-color: #3066BE;
+    color: #2AF5FF;
+    text-align: center
+
+}
+
+h2 {
+    background-color: #2AF5FF;
+    color: #963484;
+    text-align: center;
+}
+
+p,
+li {
+    color: #28C2FF;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 350;
+}
+
+li,
+a {
+    font-weight: bold;
+    background-color: #634DA1;
+}
+
+a {
+    font-size: x-large;
+    text-align: center;
+}
