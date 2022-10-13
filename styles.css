@@ -1,23 +1,21 @@
 * {
     background-color: #963484;
     color: #28C2FF;
-
     font-family: 'free mono', Courier, monospace;
 }
-
+li a{
+    background-color:#634DA1;
+}
 h1 {
     background-color: #3066BE;
     color: #2AF5FF;
     text-align: center
-
 }
-
 h2 {
     background-color: #2AF5FF;
     color: #963484;
     text-align: center;
 }
-
 p,
 li {
     color: #28C2FF;
@@ -35,13 +33,18 @@ img {
     height: 350;
 }
 
-li,
-a {
+li {
     font-weight: bold;
     background-color: #634DA1;
 }
 
 a {
     font-size: x-large;
-    text-align: center;
+}
+.home-link{
+    text-align: center; 
+    background-color: #3066BE;
+}
+.home-link a{
+    background-color: #3066BE;
 }
