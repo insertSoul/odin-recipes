@@ -31,6 +31,10 @@ img {
     margin-right: auto;
     width: auto;
     height: 350;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #3066BE;
+    margin-top: 10px;
 }
 
 li {
@@ -47,4 +51,8 @@ a {
 }
 .home-link a{
     background-color: #3066BE;
+}
+.homepage-list{
+    width: 300px;
+    text-align: center;
 }
