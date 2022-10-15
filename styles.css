@@ -53,6 +53,12 @@ a {
     background-color: #3066BE;
 }
 .homepage-list{
-    width: 300px;
-    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    border:5px solid rebeccapurple;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+
 }
