@@ -11,12 +11,14 @@ h1 {
     color: #2AF5FF;
     text-align: center;
     border-bottom: 10px double #2AF5FF;
+    margin-bottom: 13px;
 }
 h2 {
     background-color: #2AF5FF;
     color: #963484;
     text-align: center;
     border-bottom: 10px double #634DA1;
+    margin-bottom: 13px;
 }
 p,
 li {
