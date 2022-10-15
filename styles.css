@@ -63,6 +63,10 @@ a {
 .home-link a{
     background-color: #3066BE;
 }
+.home-link:hover,
+.home-link a:hover{
+    background-color: #634DA1;
+}
 .homepage-list{
     text-align: center;
     align-items: center;
@@ -73,7 +77,9 @@ a {
     margin-left: 150px;
     margin-right: 150px;
     padding: 10px;
-
+}
+.homepage-list:hover{
+    background-color: #3066BE;
 }
 .Spice-list,
 .Aromatics-list{
