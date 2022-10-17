@@ -18,3 +18,9 @@ UPDATE:
 
     Improvements - Add CSS rules to give the website color and better stylings. 
 
+UPDATE 2:
+    Basic CSS rules have been added to give color and stlyings
+    Also more learnt CSS rules such as boarders margins and paddings have been placed
+
+   Improvemtns - Add in a flex box to demonstrate this skill 
+
