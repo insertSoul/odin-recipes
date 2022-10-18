@@ -101,29 +101,31 @@ a {
     display: flex;
     justify-content: space-between;
     flex: 1 1 0;
-    height: 60px;
     background-color: #362959;
     margin: 5px 10px;
+    align-items: center;
 }
 .date{
     flex:1 1 0;
     border: 1px black;
     text-align: center;
-    border: 2px black solid;
+    margin: 10px;
+    padding: 30px;
 }
 .welcome{
     flex:1 1 0;
     text-align: center;
-    border: 2px black solid;
+    margin: 10px;
+    padding: 30px;
 }
 .little-gif{
     flex: 0 1 0;
     justify-content: flex-end;
-    border: 2px black solid;
+    margin: 10px;
 }
 .gunfingers{
-    height: 60px;;
-    margin: auto;
+    height: 60px;
+    margin: 10px;
     border: none;
     
 }
