@@ -94,6 +94,7 @@ a {
     display: flex;
     padding: 30px;
     background-color: #634DA1;
+    justify-content: space-around;
 }
 .top-bar{
     font-size: large;
@@ -107,17 +108,19 @@ a {
 }
 .date{
     flex:1;
+    border: 1px black;
+    text-align: center;
 }
 .welcome{
     flex:1;
+    text-align: center;
 }
 .little-gif{
-    flex: 1;
-    justify-content: flex-end;
+    flex: auto;
 }
-.little-gif img{
-    flex: 1;
-    height: 60px;
-    margin: 0px;
-    border: 0px;
+.gunfingers{
+    height: 60px;;
+    margin: auto;
+    border: none;
+    
 }
