@@ -22,5 +22,10 @@ UPDATE 2:
     Basic CSS rules have been added to give color and stylings
     Also more learnt CSS rules such as boarders margins and paddings have been placed
 
-   Improvements - Add in a flex box to demonstrate this skill 
+    Improvements - Add in a flex box to demonstrate this skill 
+
+UPDATE 3:
+    Added in a flex box banner at the top of the page to test knowledge.
+
+    Improvements - Fix date in new banner to be dynamic and not fixed text. 
 
